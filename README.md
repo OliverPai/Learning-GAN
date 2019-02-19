@@ -1,1 +1,1 @@
-Using StarGAN to do something
+Testing StarGAN
